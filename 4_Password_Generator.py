@@ -27,3 +27,6 @@ def main():
     
 if __name__=="__main__":
     main()
+
+# Create a file for storing the passwords generated.
+# Before generating a new password, check if it already exists.
